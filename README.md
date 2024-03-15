@@ -1,5 +1,6 @@
 # proy_ej
 Prueba de repositorio
-primer cambio de prueba
+1er cambio de prueba
 Hola 
-segundo cambio OJO
+2do cambio OJO
+borrando tb
